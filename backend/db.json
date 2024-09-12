@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "name": "Ana2",
+      "email": "ana1@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Rafael Santos Salgado",
+      "email": "rafa_gc123@hotmail.com",
+      "id": 6
+    },
+    {
+      "name": "teste3",
+      "email": "teste@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Cleiton Santo",
+      "email": "cleitinho@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "Anata ",
+      "email": "Anata@gmail.com",
+      "id": 11
+    }
+  ]
+}
